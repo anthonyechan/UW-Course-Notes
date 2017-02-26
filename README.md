@@ -1,4 +1,4 @@
-# UW-Course-Notes
+# UW Course Notes
 
 Written by Anthony Chan
 
